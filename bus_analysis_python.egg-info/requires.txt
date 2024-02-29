@@ -1,0 +1,7 @@
+geopy
+numpy
+pandas
+concurrent
+requests
+typing
+schedule
